@@ -10,7 +10,8 @@ While retail markets focus on price action, institutional capital is quietly bui
 By bypassing standard aggregators and querying raw smart contract logs directly from the Ethereum mainnet via the **Dune API**, this project models the continuous Total Value Locked (TVL) and daily capital flows (Minting/Burning) of institutional money.
 
 ## 📊 Dashboard & Visualizations
-*(Upload your generated chart `blackrock_buidl_analysis.png` to your GitHub repo, and replace this text with the image. Example: `![BUIDL Chart](blackrock_buidl_analysis.png)` )*
+<img width="1489" height="790" alt="image (7)" src="https://github.com/user-attachments/assets/63fdf331-bd6a-4a07-83df-aa4f84ef2480" />
+
 
 ### Key Macro Insights:
 1. **Capital Inflows (Minting):** Identifies specific periods of heavy institutional accumulation, mapped against broader macroeconomic events.
